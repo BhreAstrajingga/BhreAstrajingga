@@ -5,5 +5,3 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=BhreAstrajingga&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=BhreAstrajingga's+GitHub+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/BhreAstrajingga)
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BhreAstrajingga&layout=compact&theme=github_dark)](https://github.com/BhreAstrajingga)
-
-![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=BhreAstrajingga&repo=rebrandz&theme=github_dark)
