@@ -5,3 +5,5 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BhreAstrajingga&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BhreAstrajingga&layout=compact&theme=github_dark)
+
+![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=BhreAstrajingga&repo=simethris2026&theme=github_dark)
